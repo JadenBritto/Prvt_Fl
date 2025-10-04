@@ -3,7 +3,7 @@ new new test
 tester initial
 no more
 testing how to use new file
-hh
+hh==vddvm
 check
 llt
 kdk
