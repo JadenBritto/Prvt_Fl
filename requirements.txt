@@ -83,10 +83,10 @@ binaryornot==0.4.4
 chardet==5.2.0
 prometheus-fastapi-instrumentator==7.1.0
 
-# ======================== HTTP & NETWORK ==================
+# ======================== HTTP & NETWORK =================
 h11==0.16.0
 httptools==0.6.4
 
-# ======================== MARKDOWN SUPPORT (DOCS) =========
+# ======================== MARKDOWN SUPPORT (DOCS) ========
 markdown-it-py==3.0.0
 mdurl==0.1.2
